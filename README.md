@@ -1,4 +1,4 @@
-# WebApi written in C# (ASP.NET Core) to find pets
+# WebApi written in C# (ASP.NET Core) to adopt pets
 
 Pet can have either one Owner or one Shelter
 
