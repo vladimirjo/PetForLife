@@ -1,4 +1,4 @@
-namespace PetForLife.Extensions;
+namespace Application.Extensions;
 
 public static class ServiceExtensions
 {
@@ -12,4 +12,5 @@ public static class ServiceExtensions
         );
         return services;
     }
+
 }
